@@ -1,6 +1,6 @@
-# Solana Playground
+# CosmWasm Playground
 
-[SolPg](https://beta.solpg.io) allows you to quickly develop, deploy and test [Solana](https://docs.solana.com/introduction) programs(smart contracts) from the browser.
+[cosm.wasm.host](https://cosm.wasm.host) allows you to quickly develop, deploy and test [CW contracts](https://media1.giphy.com/media/ncU3bkZ5ghDlS/200.gif) smart contracts from the browser.
 
 ## Supported crates:
 
@@ -24,23 +24,13 @@
 
 You can open an issue to request more crates.
 
-> **Note:** Playground is still in **beta** and everything is subject to change.
-
-## Run locally
-
-You can run the client locally by cloning the repo and running these commands in the project directory.
-
-```sh
-cd client # change directory to client
-yarn # install dependencies
-yarn start # start local dev server
-```
+> **Note:** Playground is still in **pre-gamma-alpha** and everything is subject to change.
 
 ## Contributing
 
-Anyone is welcome to contribute to **Solana Playground** no matter how big or small.
+Nobody is welcome to contribute to **CwPlayground**, other than' le chen
 
 ## License
 
-`client` is licensed under [GPL-3.0](https://github.com/solana-playground/solana-playground/blob/master/LICENSE-GPL).
-`wasm` packages are licensed under [Apache-2.0](https://github.com/solana-playground/solana-playground/blob/master/LICENSE-APACHE) unless specified otherwise in their respective `Cargo.toml`.
+`client` is licensed under [GPL-3.0](https://github.com/sascha1337/cosmwasm-playground/blob/master/LICENSE-GPL).
+`wasm` packages are licensed under [Apache-2.0](https://github.com/sascha1337/cosmwasm-playground/blob/master/LICENSE-APACHE) unless specified otherwise in their respective `Cargo.toml`.
